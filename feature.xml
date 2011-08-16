@@ -2,7 +2,7 @@
 <feature
       id="net.kenevans.jfreechart.feature"
       label="%featureName"
-      version="1.0.0"
+      version="1.0.4"
       provider-name="%providerName"
       plugin="net.kenevans.jfreechart"
       image="%image">
