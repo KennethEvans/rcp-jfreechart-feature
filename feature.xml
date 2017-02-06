@@ -4,7 +4,7 @@
       label="%featureName"
       version="1.0.13"
       provider-name="%providerName"
-      plugin="net.kenevans.jfreechart"
+      plugin="net.kenevans.rcp.jfreechart"
       image="%image">
 
    <description>
@@ -20,7 +20,7 @@
    </license>
 
    <plugin
-         id="net.kenevans.jfreechart"
+         id="net.kenevans.rcp.jfreechart"
          download-size="0"
          install-size="0"
          version="0.0.0"
